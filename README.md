@@ -23,10 +23,15 @@
 
 ## ⚙️ Funcionalidades / Functionalities
 - `Funcionalidade 1`: Mostrar as características da empresa
+English: Showing company characteristics
 - `Funcionalidade 2`: Conhecer a equipe do Flyo
+English: Meeting the Flyo team
 - `Funcionalidade 3`: Fazer o login
+English: Login
 - `Funcionalidade 4`: Cadastrar um email
-- `Funcionalidade 5`: Conhecer mais sobre a empresa Flyo
+English: Register an email
+- `Funcionalidade 5`: Saber mais sobre a empresa Flyo
+English: Learn more about the company Flyo
         
 English: 
         
